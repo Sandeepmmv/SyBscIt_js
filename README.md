@@ -28,7 +28,6 @@ show contest of text file in textarea selected using file chooser.
 c. Create a Swing application to demonstrate use of scrollpane to change its color 
 selected using colour chooser.
 7. Layouts: Write programs for the following layouts:
-51
 a. Flow Layout
 b. Grid Layout
 c. Border Layout
@@ -40,3 +39,17 @@ d. SelectionEvent
 e. FocusEvent
 9. Demonstrate the use of Adapter Class in Event Handling
 10. Demonstrate the use of Anonymous Inner Class in Event Handling
+
+#Example to Run java program in cmd
+
+Step 1: Compile Java program Using command
+>javac class_name.java
+
+Step 2: Run Java program Using command
+>java class_name
+
+![Screenshot 2024-01-27 173026](https://github.com/Sandeepmmv/SyBscIt_js/assets/133843985/f002629d-a9e4-4da7-8a5b-22f2a54cf3c0)
+
+
+
+
